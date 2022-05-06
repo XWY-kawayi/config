@@ -1,6 +1,8 @@
-官网下载：[AutoKey]([AutoHotkey](https://www.autohotkey.com/))
+官网下载：[AutoHotkey](https://www.autohotkey.com/)
 
-手册：        [初学向导]([AutoHotkey 初学者向导 | AutoHotkey (wyagd001.github.io)](https://wyagd001.github.io/zh-cn/docs/Tutorial.htm))
+手册：        [初学向导](https://wyagd001.github.io/zh-cn/docs/Tutorial.htm)
+
+或者访问：    [AutoHotkey教程-月光博客](https://www.williamlong.info/archives/6443.html)
 
 ## 1、定义热键时可以使用的修饰符：
 
@@ -60,9 +62,10 @@
 ​		</tr>
 ​	</tbody>
 </table>
+
 ## 2、键盘鼠标映射关系：
 
-<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:600px">
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width:600px">
 	<tbody>
 		<tr>
 			<th>鼠标</th>
@@ -109,7 +112,7 @@
 
 -------------
 
-<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:600px">
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width:600px">
 	<tbody>
 		<tr>
 			<th>键盘</th>
@@ -578,7 +581,3 @@
 		</tr>
 	</tbody>
 </table>
-
-**Tips：更多功能查看手册或者访问：**
-
-([AutoHotkey教程-月光博客](https://www.williamlong.info/archives/6443.html))
