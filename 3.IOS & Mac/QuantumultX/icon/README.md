@@ -1,8 +1,6 @@
 # Erdongchan Icons Fro QuanX
 
-YouTube频道：https://bit.ly/3bshXk6
 
-telegram Channel：https://t.me/erdongchanyo
 
 图标根据TF版进行适配，同时适用与浅/深色
 
