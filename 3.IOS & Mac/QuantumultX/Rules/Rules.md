@@ -56,3 +56,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list, tag=Advertising, force-policy=Advertising, update-interval=172800, opt-parser=false, enabled=true
 ```
 
+
+
+forked from blackmatrix7 防丢失😁
