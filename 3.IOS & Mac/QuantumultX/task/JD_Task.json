@@ -1,7 +1,6 @@
-// 搬运：https://github.com/yyn618/QuantumultX-Script
 {
     "name":"Xining JD_Task",
-    "description":"https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/JD_Task.json",
+    "description":"搬运 https://github.com/yyn618/QuantumultX-Script",
     "task":[ 
 "0 9 * * * https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/Task/JD/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
 "55 23 * * * https://raw.githubusercontent.com/yyn618/QuantumultX-Script/master/Task/JD/jd_unsubscribe.js, tag=取关京东店铺和商品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd.png",
