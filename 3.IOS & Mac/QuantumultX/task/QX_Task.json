@@ -3,6 +3,7 @@
  "description": "自用脚本任务",
  "task": [
     "0 9 * * * https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/60s.js, tag=每天60s读懂世界, img-url=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Icon/liwo.png, enabled=true",
+    "*/22 * * * * https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.js, tag=联通流量查询, img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/taskicon/10001.png",
     "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png, enabled=true",
     "0 0 29 2 * https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/NetflixPolicySwitcher/netflix_switcher.js, tag=Neflix 策略切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix_Letter.png, enabled=false",
     "0 */2 * * * https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/NetflixPolicySwitcher/netflix_checker.js, tag=Netflix 解锁检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix_Letter.png, enabled=false",
