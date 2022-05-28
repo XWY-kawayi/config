@@ -1,0 +1,19 @@
+圈X 联通V3版本 Scriptable小组件设置
+
+圈X： 配置文件按下面添加/修改(前提Boxjs正常使用）
+
+[rewrite_local]
+^https?:\/\/10010\.json url script-analyze-echo-response https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.js
+
+[mitm]
+hostname = 10010.json
+
+Scriptable：
+安装最新：「小件件」开发环境.js  10010.js
+
+10010.js里找到下面这行，超时时间修改大点保证获取boxjs数据：
+
+const req = new Request('http://boxjs.net/query/boxdata')
+        req.timeoutInterval = 10
+
+就就搞定了！
