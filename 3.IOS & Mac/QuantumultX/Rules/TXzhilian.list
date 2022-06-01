@@ -1,11 +1,11 @@
 # NAME: TXzhilian
 # AUTHOR: sendohz
 # UPDATED: 2022.6.1 15:20:30
-# HOST: 5
-# HOST-SUFFIX: 9
+# HOST: 6
+# HOST-SUFFIX: 21
 # IP-CIDR: 59
-# USER-AGENT: 20
-# TOTAL: 93
+# USER-AGENT: 21
+# TOTAL: 107
 
 HOST,dl.wechat.com,TXzhilian
 HOST,sglong.wechat.com,TXzhilian
@@ -30,6 +30,23 @@ HOST-SUFFIX,qq.com,TXzhilian
 USER-AGENT,*live4iphone*,TXzhilian
 USER-AGENT,*qqlive4iphone*,TXzhilian
 HOST-SUFFIX,video.qq.com,TXzhilian
+
+#英雄联盟手游
+USER-AGENT,lolm*,TXzhilian
+host-suffix, tpns.sh.tencent.com, TXzhilian
+host, cn.voice.gcloudcs.com, TXzhilian
+#host-suffix, anticheatexpert.com, TXzhilian
+ip-cidr, 116.128.170.0/24, TXzhilian
+ip-cidr, 116.128.169.0/24, TXzhilian
+ip-cidr, 157.148.57.0/24, TXzhilian
+ip-cidr, 157.148.55.0/24, TXzhilian
+ip-cidr, 182.254.116.0/24, TXzhilian
+ip-cidr, 112.86.230.0/24, TXzhilian
+ip-cidr, 58.144.181.0/24, TXzhilian
+ip-cidr, 112.65.194.148/32, TXzhilian
+ip-cidr, 153.3.50.0/24, TXzhilian
+ip-cidr, 153.37.100.246/32, TXzhilian
+ip-cidr, 112.80.130.0/24, TXzhilian
 
 # 王者荣耀
 USER-AGENT,smoba*,TXzhilian
