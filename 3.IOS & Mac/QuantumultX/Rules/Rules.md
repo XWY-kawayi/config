@@ -5,6 +5,8 @@
 -------
 
 ```js
+#腾讯直连规则(王卡用)
+https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/Rules/TXzhilian.list, tag=腾讯直连, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
 # Speedtest规则
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Speedtest/Speedtest.list, tag=Speedtest 规则, force-policy=Speedtest, update-interval=86400, opt-parser=false, enabled=true
 # Netflix规则
