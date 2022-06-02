@@ -57,7 +57,7 @@
 
 ## 👉🏻 [DragonBall](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall)
 ### 使用说明
-远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/DragonBall.json`
+远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/DB.json`
 远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/图标名称.png`
 ### 预览
 ![DragonBall](https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/Preview.png)
