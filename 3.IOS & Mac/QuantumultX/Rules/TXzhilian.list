@@ -2,10 +2,10 @@
 # AUTHOR: sendohz
 # UPDATED: 2022.6.1 15:20:30
 # HOST: 6
-# HOST-SUFFIX: 22
+# HOST-SUFFIX: 36
 # IP-CIDR: 61
 # USER-AGENT: 21
-# TOTAL: 110
+# TOTAL: 124
 
 HOST,dl.wechat.com,TXzhilian
 HOST,sglong.wechat.com,TXzhilian
@@ -142,3 +142,21 @@ HOST-SUFFIX,10010.com,TXzhilian
 USER-AGENT,*MPBank*,TXzhilian
 USER-AGENT,*cmblife*,TXzhilian
 HOST-SUFFIX,cmbchina.com,TXzhilian
+
+#虎牙
+HOST-SUFFIX,huya.com,HuYa
+HOST-SUFFIX,huyagame.cn,HuYa
+HOST-SUFFIX,peiwanlu.com,HuYa
+HOST-SUFFIX,snapplay.com,HuYa
+
+#斗鱼
+HOST-SUFFIX,douyu.com,Douyu
+HOST-SUFFIX,douyu.tv,Douyu
+HOST-SUFFIX,douyuba.cn,Douyu
+HOST-SUFFIX,douyucdn.cn,Douyu
+HOST-SUFFIX,douyucdn2.cn,Douyu
+HOST-SUFFIX,douyupcdn.cn,Douyu
+HOST-SUFFIX,douyuscdn.com,Douyu
+HOST-SUFFIX,douyutv.com,Douyu
+HOST-SUFFIX,doyonoc.com,Douyu
+HOST-SUFFIX,oywtv.com,Douyu
