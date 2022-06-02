@@ -4,8 +4,10 @@
 + 例如：
     * 图标名称.png
     * X001.png 或 Z001.png 或 001.png
-    远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGo/PokemonGo.json`
-    远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGo/IconSet/图标名称.png`
+    
+远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGo/PokemonGo.json`
+
+远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGo/IconSet/图标名称.png`
 ### 预览
 皮卡丘 各类形态：15枚  
 宝可梦 初级形态：85枚  
@@ -19,7 +21,7 @@
 + #650 - #721 哈力栗 - 波尔凯尼恩
 + #722 - #809 木木枭 - 美录梅塔
 + #810 - #890 敲音猴 - 无极汰那
-<img src="https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGo/Preview.jpg" alt="" style="zoom:20%;" align='left'/>
+<img src="https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGO/Preview.jpg" alt="" style="zoom:20%;" align='left'/>
 
 ## 👉🏻 [Digimon](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/Digimon/IconSet)
 ### 使用说明
@@ -27,8 +29,10 @@
 + 例如：
     * 图标名称.png
     * 0102.png
-    远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Digimon/Digimon.json`
-    远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Digimon/IconSet/图标名称.png`
+    
+远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Digimon/Digimon.json`
+    
+远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Digimon/IconSet/图标名称.png`
 ### 预览
 八位主人公及其数码宝贝进化：56枚
 
@@ -54,9 +58,9 @@
 ## 👉🏻 [DragonBall](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall)
 ### 使用说明
 远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/DragonBall.json`
-    远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/图标名称.png`
+远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/图标名称.png`
 ### 预览
-<img src="https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/Preview.png" alt="" style="zoom:20%;" align='left'/>
+![DragonBall](https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/DragonBall/Preview.png)
 
 ## 👉🏻 [Daisy](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/Daisy/IconSet)
 ### 使用说明
@@ -64,8 +68,10 @@
 + 例如：
     * 图标名称.png
     * 001.png
-     远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Daisy/Daisy.json`
-      远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Daisy/IconSet/图标名称.png`
+    
+远程订阅地址`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Daisy/Daisy.json`
+
+远程修改地址`img-url=https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/Daisy/IconSet/图标名称.png`
 ### 预览
 来自[微博 @是芝芝味的Daisy鸭](https://weibo.com/u/6540920195 "微博 @是芝芝味的Daisy鸭") 手绘 情侣头像：6枚
 + 情侣头像分为男孩、女孩
@@ -81,9 +87,13 @@
 ## 👉🏻 [Policy-Country](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/Policy-Country)  [Policy-Filter](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/Policy-Filter)
 ### 使用说明
 + 此订阅内使用原作者地址，便于更新
+
 远程订阅地址(airport)`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/airport-icon-gallery.json`
+
 远程订阅地址(country)`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/country-icon-gallery.json`
+
 远程订阅地址(filter)`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/filter-icon-gallery.json`
+
 远程订阅地址(icon)`https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/icon-gallery.json`
 
 ### 预览
