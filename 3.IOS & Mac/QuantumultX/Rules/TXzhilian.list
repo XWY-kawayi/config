@@ -144,19 +144,19 @@ USER-AGENT,*cmblife*,TXzhilian
 HOST-SUFFIX,cmbchina.com,TXzhilian
 
 #虎牙
-HOST-SUFFIX,huya.com,HuYa
-HOST-SUFFIX,huyagame.cn,HuYa
-HOST-SUFFIX,peiwanlu.com,HuYa
-HOST-SUFFIX,snapplay.com,HuYa
+#HOST-SUFFIX,huya.com,HuYa
+#HOST-SUFFIX,huyagame.cn,HuYa
+#HOST-SUFFIX,peiwanlu.com,HuYa
+#HOST-SUFFIX,snapplay.com,HuYa
 
 #斗鱼
-HOST-SUFFIX,douyu.com,Douyu
-HOST-SUFFIX,douyu.tv,Douyu
-HOST-SUFFIX,douyuba.cn,Douyu
-HOST-SUFFIX,douyucdn.cn,Douyu
-HOST-SUFFIX,douyucdn2.cn,Douyu
-HOST-SUFFIX,douyupcdn.cn,Douyu
-HOST-SUFFIX,douyuscdn.com,Douyu
-HOST-SUFFIX,douyutv.com,Douyu
-HOST-SUFFIX,doyonoc.com,Douyu
-HOST-SUFFIX,oywtv.com,Douyu
+#HOST-SUFFIX,douyu.com,Douyu
+#HOST-SUFFIX,douyu.tv,Douyu
+#HOST-SUFFIX,douyuba.cn,Douyu
+#HOST-SUFFIX,douyucdn.cn,Douyu
+#HOST-SUFFIX,douyucdn2.cn,Douyu
+#HOST-SUFFIX,douyupcdn.cn,Douyu
+#HOST-SUFFIX,douyuscdn.com,Douyu
+#HOST-SUFFIX,douyutv.com,Douyu
+#HOST-SUFFIX,doyonoc.com,Douyu
+#HOST-SUFFIX,oywtv.com,Douyu
