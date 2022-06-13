@@ -1,0 +1,10 @@
+# NAME: Talkatone
+# AUTHOR: sendohz
+# UPDATED: 2022年6月14日 
+
+HOST-SUFFIX, tktn.be, tktn
+IP-CIDR, 50.117.27.0/24, tktn
+IP-CIDR,69.46.75.0/24, tktn
+#UDP 语音电话
+IP-CIDR, 63.251.124.0/24,tktn
+
