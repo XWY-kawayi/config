@@ -21,7 +21,7 @@
 + #650 - #721 哈力栗 - 波尔凯尼恩
 + #722 - #809 木木枭 - 美录梅塔
 + #810 - #890 敲音猴 - 无极汰那
-<img src="https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGO/Preview.jpg" alt="" style="zoom:20%;" align='left'/>
+<img src="https://raw.githubusercontent.com/XWY-kawayi/config/master/3.IOS%20%26%20Mac/QuantumultX/icon/PokemonGo/Preview.jpg" alt="" style="zoom:20%;" align='left'/>
 
 ## 👉🏻 [Digimon](https://github.com/XWY-kawayi/config/tree/master/3.IOS%20%26%20Mac/QuantumultX/icon/Digimon/IconSet)
 ### 使用说明
